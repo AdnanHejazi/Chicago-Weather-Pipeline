@@ -11,7 +11,6 @@ This project is an end-to-end data pipeline that uses Apache Airflow (via Astro 
 - **Pandas**
 - **AWS S3**
 - **OpenWeatherMap API**
-- **s3fs** & **boto3**
 
 ---
 
@@ -29,5 +28,5 @@ This project is an end-to-end data pipeline that uses Apache Airflow (via Astro 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/weather-data-pipeline.git
+git clone https://github.com/AdnanHejazi/Chicago-Weather-Pipeline.git
 cd weather-data-pipeline
