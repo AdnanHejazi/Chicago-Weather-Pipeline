@@ -24,6 +24,15 @@ This project is an end-to-end data pipeline that uses Apache Airflow (via Astro 
 
 ---
 
+### ✅ DAG Workflow:
+
+Here's a screenshot of the DAG (`weather_dag`) successfully running in Apache Airflow:
+
+<img src="assets/DAG_run_success.png" alt="Airflow DAG success" width="700"/>
+<img src="assets/S3_bucket.png" alt="Airflow DAG success" width="700"/>
+
+---
+
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
